@@ -8,6 +8,9 @@ Node.js command-line application that takes in information about employees on a 
 Daniel H. Lewis
 
 # Deployment
+Demonstration:
+
+Github: https://github.com/dotdlew/cautious-bassoon
 
 # User Story
 AS A manager
