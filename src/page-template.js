@@ -73,13 +73,13 @@ module.exports = (templateData) => {
     <body>
     <header>
         <div class="container flex-row justify-space-between align-center py-3">
-            <h1 class="page-title text-center text-secondary bg-dark text-light py-2 px-3">Team Profile Generator</h1>
+            <h1 class="page-title text-center text-secondary bg-info text-light py-2 px-3">Team Profile Generator</h1>
         </div>
     </header>
 
     <main class="container my-1">
     <div class="container flex-row justify-space-between align-center py-3">
-        <h1 class="page-title text-center text-secondary bg-dark text-light py-2 px-3">My Team</h1>
+        <h1 class="page-title text-center text-secondary bg-info text-light py-2 px-3">My Team</h1>
     </div>  
         <div class="row d-flex justify-content-center">
         ${generateCards(employees)}
