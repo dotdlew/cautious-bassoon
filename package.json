@@ -1,0 +1,24 @@
+{
+  "name": "cautious-bassoon",
+  "version": "1.0.0",
+  "description": "Module 10 Challenge: Object-Oriented Programming Team Profile Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dotdlew/cautious-bassoon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dotdlew/cautious-bassoon/issues"
+  },
+  "homepage": "https://github.com/dotdlew/cautious-bassoon#readme",
+  "dependencies": {
+    "inquirer": "^8.1.1",
+    "jest": "^27.0.6"
+  }
+}
